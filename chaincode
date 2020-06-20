@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-//密码删除
+
 const Admin = "Admin"
 const Pwd = "123456"
 const DeviceID  = "Zhuoer"
